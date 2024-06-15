@@ -1,0 +1,4 @@
+python-decouple~=3.6
+Pyrogram~=2.0.67
+redis[hiredis]~=4.4.0
+TgCrypto~=1.2.5
