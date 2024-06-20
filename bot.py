@@ -25,7 +25,7 @@ log = getLogger("AP")
 
 # fetching variables from env
 try:
-    TOKEN = config("TOKEN")
+    TOKEN ="6105833544:AAG9Ulo_1Mtu2oBQACqK_94ChvB-7L9xrBc"
     NAME = config("NAME")
 except Exception as ex:
     exiter(ex)
